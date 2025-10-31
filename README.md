@@ -64,7 +64,7 @@ Cada profesor dicta uno o varios cursos, y cada curso tiene exactamente un profe
 - Eliminar profesores o cursos sin romper la relacion.
 - Generar reporte de cantidad de cursos por profesor.
 
-** Ocete Rocio Milagros **
+**Ocete Rocio Milagros**
 Alumna de la UTN - Tecnicatura Universitaria en Programacion (Modalidad a Distancia)
 
 GitHub: rocio-ocete
